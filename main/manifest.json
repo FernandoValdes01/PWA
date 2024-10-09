@@ -1,0 +1,21 @@
+{
+    "name": "Aves_Chilenas",
+    "short_name": "Aves",
+    "description": "software PWA con JS para conocer a algunas de las aves de chile",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "icons": [
+        {
+            "src": "icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
